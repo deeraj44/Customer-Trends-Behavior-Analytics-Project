@@ -1,5 +1,5 @@
 # Customer Trends & Behavior Analytics Project
-This project delivers a full, industry‑grade end‑to‑end analytics workflow, reflecting the real responsibilities of modern data analysts. It covers every critical phase of the analytics lifecycle — from data preparation and modeling to insight generation, visualization, and final reporting — providing a complete, practical demonstration of how data is transformed into business value.
+This project delivers a full, industry‑grade end‑to‑end analytics workflow, reflecting the real responsibilities of modern data analysts. It covers every critical phase of the analytics lifecycle, from data preparation and modeling to insight generation, visualization, and final reporting, providing a complete, practical demonstration of how data is transformed into business value.
 
 
 ## 📌 Project Overview
