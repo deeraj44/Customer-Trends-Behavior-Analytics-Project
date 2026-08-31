@@ -14,7 +14,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.  
 
 
-## 📌 Presentation Deck - https://gamma.app/docs/Customer-Shopping-Behavior-Analysis-apb65lnmvejsd83  
+## 📌 Presentation Deck - https://customer-shopping-behavi-6tnotjz.gamma.site/
 
 
 ## 📌 Dashboard Overview
